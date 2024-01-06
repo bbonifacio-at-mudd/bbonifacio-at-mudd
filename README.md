@@ -1,5 +1,6 @@
 # Hi ![waving](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/c51c3fbf-d6a2-4dae-bba0-5d36ba70d464) Welcome to my Github!
 
+![mywebsite](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/0321e323-b667-40e0-b39b-e71b0a7c1e3c)
 
 <!--
 **bbonifacio-at-mudd/bbonifacio-at-mudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
