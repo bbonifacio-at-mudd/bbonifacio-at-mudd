@@ -1,5 +1,5 @@
-# Hello  My name is Brandon Bonifacio
-![waving](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/c51c3fbf-d6a2-4dae-bba0-5d36ba70d464)
+# Hello ![waving](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/c51c3fbf-d6a2-4dae-bba0-5d36ba70d464) Welcome to my Github!
+
 
 <!--
 **bbonifacio-at-mudd/bbonifacio-at-mudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
