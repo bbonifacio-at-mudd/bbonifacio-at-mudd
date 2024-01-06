@@ -1,4 +1,4 @@
-# Hi👋 My name is Brandon Bonifacio
+# Hello ![image](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/91eb24b5-5f9d-4165-baee-a406bb9759e0) My name is Brandon Bonifacio
 
 <!--
 **bbonifacio-at-mudd/bbonifacio-at-mudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
