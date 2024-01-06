@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src= "[https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/ae93d395-4de2-489a-a0db-6ee6c56033b0](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/40ff6bec-cc64-4f03-ae44-ceabd47ad308)" width="100%"/>
+  <img src= "https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/40ff6bec-cc64-4f03-ae44-ceabd47ad308" width="100%"/>
 </p>
 <p align="center">
   <em><a href=https://bbonifacio-at-mudd.github.io/Yillow/index.html"> Or, if you haven't been here either, be sure to check out my Yillow project at https://bbonifacio-at-mudd.github.io/Yillow/index.html </a></em>
