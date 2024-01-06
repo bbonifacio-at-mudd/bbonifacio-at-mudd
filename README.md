@@ -4,7 +4,7 @@
   <img src= "https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/ae93d395-4de2-489a-a0db-6ee6c56033b0" width="100%"/>
 </p>
 <p align="center">
-  <em><a href="https://brandonbonifacio.com/">If you haven't been there already, be sure to check out my website.</a></em>
+  <em><a href="https://brandonbonifacio.com/">If you haven't been there already, be sure to check out my website at brandonbonifacio.com</a></em>
 </p>
 
 
