@@ -14,7 +14,7 @@ Hi ![waving](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114
   <img src= "https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/40ff6bec-cc64-4f03-ae44-ceabd47ad308" width="100%"/>
 </p>
 <p align="center">
-  <em><a href=https://bbonifacio-at-mudd.github.io/Yillow/index.html"> Or, if you haven't been here either, be sure to check out my Yillow project at https://bbonifacio-at-mudd.github.io/Yillow/index.html </a></em>
+  <em><a href=https://bbonifacio-at-mudd.github.io/Yillow/index.html> Or, if you haven't been here either, be sure to check out my Yillow project at https://bbonifacio-at-mudd.github.io/Yillow/index.html </a></em>
 </p>
 
 <h2 align="center">
