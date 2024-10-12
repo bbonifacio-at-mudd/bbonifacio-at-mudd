@@ -25,7 +25,7 @@ Hi ![waving](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114
 </p>
 
 <h2 align="center">
-[Work Github](https://github.com/bbonifacio-at-samsara) lol, u can't see anything >:), no stealing trade secrets!
+<em> Work Github </em><a href= https://github.com/bbonifacio-at-samsara> lol, u can't see anything >:), no stealing trade secrets!
 </h2> 
 
 <!--
