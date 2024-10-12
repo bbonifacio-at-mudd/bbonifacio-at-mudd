@@ -17,6 +17,13 @@ Hi ![waving](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114
   <em><a href=https://bbonifacio-at-mudd.github.io/Yillow/index.html> Or, if you haven't been here either, be sure to check out my Yillow project at https://bbonifacio-at-mudd.github.io/Yillow/index.html </a></em>
 </p>
 
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/c8475336-d226-4796-90ed-5e3e44286b46" width="100%"/>
+</p>
+<p align="center">
+<em> <a href= https://github.com/bbonifacio-at-mudd/Live-CV-on-Arduino-with-AWS-Backend> Or for an even cooler project, check out my Live Computer Vision on Arduino with AWS Backend Project at https://github.com/bbonifacio-at-mudd/Live-CV-on-Arduino-with-AWS-Backend</a></em>
+</p>
+
 <h2 align="center">
 [Work Github](https://github.com/bbonifacio-at-samsara) lol, u can't see anything >:), no stealing trade secrets!
 </h2> 
