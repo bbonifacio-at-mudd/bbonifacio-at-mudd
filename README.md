@@ -1,4 +1,4 @@
-# Hi ![waving](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/c51c3fbf-d6a2-4dae-bba0-5d36ba70d464) Welcome to my Github!
+# Hi ![waving](https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/c51c3fbf-d6a2-4dae-bba0-5d36ba70d464) Welcome to my Personal Github!
 
 <p align="center">
   <img src= "https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/ae93d395-4de2-489a-a0db-6ee6c56033b0" width="100%"/>
